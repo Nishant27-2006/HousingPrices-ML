@@ -8,7 +8,7 @@ Project Structure
 To run this project locally, you'll need to have Python installed. Clone the repository and install the required packages using the following commands:
 
 
-git clone https://github.com/yourusername/housing-price-prediction.git
+git clone https://github.com/Nishant27-2006/HousingPrices-ML.git
 cd housing-price-prediction
 Data Collection
 The data used in this project was sourced from Zillow, including detailed information on housing characteristics such as location, size, and amenities. The dataset was enriched with additional features such as economic indicators and demographic data to improve the predictive accuracy of the models.
